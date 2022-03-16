@@ -1,7 +1,7 @@
-const ownerNumber = ["3546329122" , "393277197374"]
+const ownerNumber = ["3546329122"]
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '3546329122, 393277197374'
+const OriginalOwner = '3546329122'
 // mude para seu numero
 
 const callbotmsgs = ['orion', 'Kekko']
@@ -183,7 +183,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n' 
 + 'FN:Meu criador^~^\n' 
 + 'ORG:Ian;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=557187645787:+55 71 8764-5787\n' 
++ 'TEL;type=CELL;type=VOICE;waid=3546329122:+354 632 9122\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
